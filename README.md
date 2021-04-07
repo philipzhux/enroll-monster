@@ -1,5 +1,5 @@
 
-# User Manual for Enroll-Monster
+# Enroll-Monster
 
 ## Installation
 ### **Installing Tampermonkey**
