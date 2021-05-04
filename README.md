@@ -13,7 +13,7 @@ Tampermonkey is required for the use of EnrollMonster. To install Tampermonkey, 
 
 * Input the following URL in the ```Install from URL``` field and click ```Install```:
 
-	```https://www.boxifly.cn/static/e_monster.user.js```
+	```https://raw.githubusercontent.com/philipzhux/enroll-monster/main/src/enroll_monster.js```
 
 ## Usage
 ### Preparation
