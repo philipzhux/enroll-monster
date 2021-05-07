@@ -1,6 +1,6 @@
 
 # Enroll-Monster
-**For Chinese version please refer to [here](https://github.com/philipzhux/enroll-monster/blob/main/README_CN.md).** 
+**For Chinese version please refer to [here](https://github.com/philipzhux/enroll-monster/blob/main/README_CN.md).** <br>
 Warnings: The script does not support SIS with Traditional Chinese as display lanuage, please set it to either English or Simplified Chinese.
 ## Installation
 ### **Installing Tampermonkey**
