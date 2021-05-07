@@ -1,6 +1,6 @@
 
 # Enroll-Monster
-For Chinese version please refer to [here](https://github.com/philipzhux/enroll-monster/blob/main/README_CN.md).
+** For Chinese version please refer to [here](https://github.com/philipzhux/enroll-monster/blob/main/README_CN.md). **
 ## Installation
 ### **Installing Tampermonkey**
 
