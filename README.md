@@ -17,13 +17,13 @@ Tampermonkey is prerequisite for EnrollMonster. To install Tampermonkey, go to [
 
 ## Usage
 ### Preparation
-1. Click [here](http://sis.cuhk.edu.cn:81/psp/csprd/?cmd=login) to login to SIS **(REMEMBER! Login to SIS on Chrome only, logining in multiple browser will casue disaster for your enrollment!!!)**
+1. Click [here](http://sis.cuhk.edu.cn:81/psp/csprd/?cmd=login) to login to SIS **(REMEMBER! Login to SIS on Chrome only, logining in multiple browsers will casue disaster for your enrollment!!!)**
 
 2. Like usual, add all you desired classes in the the cart by class search.
 
 
 ### Using the Script
-N.B. Don't use the script until about 10 minutes ahead of enrollment time because the login session of SIS only last for 20 minutes.
+N.B. Don't use the script until about 10 minutes ahead of enrollment time because the login session of SIS only lasts for 20 minutes.
 1. Go to Enrollment -> Enrollment: Add Classes
 
 2. Select your term and click ```continue```
