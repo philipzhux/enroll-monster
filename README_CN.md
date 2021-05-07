@@ -23,6 +23,7 @@
 
 
 ### 使用
+N.B. 记得在抢课时间前10分钟左右再用，因为每次SIS的Login Session只有20分钟。
 1. 去 Enrollment -> Enrollment: Add Classes
 
 2. 选择你的学期并点 ```continue```
