@@ -1,5 +1,6 @@
 
 # Enroll-Monster 中文说明
+Enroll Monster 不支持显示语言为**繁體中文**的SIS界面, 请将其设为**English**或**简体中文**。Use at your own risk.
 
 ## 安装步骤
 ### **安装 Tampermonkey**
