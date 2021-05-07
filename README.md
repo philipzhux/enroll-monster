@@ -4,7 +4,7 @@ For Chinese version please refer to [here](https://github.com/philipzhux/enroll-
 ## Installation
 ### **Installing Tampermonkey**
 
-Tampermonkey is required for the use of EnrollMonster. To install Tampermonkey, go to [this link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) on **Chrome**  on *Mac OS* or *Windows* and click ```INSTALL```.
+Tampermonkey is prerequisite for EnrollMonster. To install Tampermonkey, go to [this link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) on **Chrome**  on *Mac OS* or *Windows* and click ```INSTALL```.
   
 ### **Importing the Script**
 * Open this URL with Chrome:
@@ -23,6 +23,7 @@ Tampermonkey is required for the use of EnrollMonster. To install Tampermonkey, 
 
 
 ### Using the Script
+N.B. Don't use the script until about 10 minutes ahead of enrollment time because the login session of SIS only last for 20 minutes.
 1. Go to Enrollment -> Enrollment: Add Classes
 
 2. Select your term and click ```continue```
