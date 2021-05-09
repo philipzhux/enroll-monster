@@ -32,13 +32,13 @@ N.B. 记得在抢课时间前10分钟左右再用，因为每次SIS的Login Sess
 3. 假使上面步骤安装成功了，就应该会弹出一个对话框:
 > Please enter the time to pre-filled the CAPTCHA code e.g. 135700 (should be a few minutes ahead of the enroll time)
 
-这是叫你填一个**让Enroll Monster 帮你填验证码的时间，这个时间应该比真正的开放抢课时间早那么几分钟**，比如说现在是20:52:00而21:00:00开始抢课，那你可以填20:57:00 (谨记用英文冒号，且按照HH:MM:SS
+这是叫你填一个**让Enroll Monster 帮你填验证码的时间，这个时间应该比真正的开放抢课时间早那么几分钟**，比如说现在是20:52:00而21:00:00开始抢课，那你可以填205700 (按照HHMMSS
 之格式)
 
 4. 之后还会有一个对话框:
 > Please enter the time to click ENROLL e.g. 140000:
 
-这就是Enroll Monster把你抢课的时间啦，比如21:00:00
+这就是Enroll Monster把你抢课的时间啦，比如210000
 	
 5. 最后会有提示:
 > Philip: All set! The script will help you fill in the CAPTCHA automatically. Now relax and wait till the enroll time!
