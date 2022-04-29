@@ -18,7 +18,7 @@ Enroll Monster 不支持显示语言为**繁體中文**的SIS界面, 请将其�
 
 ## 使用步骤
 ### 预备
-1. 点 [这条link](http://sis.cuhk.edu.cn:81/psp/csprd/?cmd=login) 登录 SIS **(谨记！只在Chrome上登录，要是在多个浏览器/设备登录会十分麻烦)**
+1. 点 [这条link](https://sis.cuhk.edu.cn/psp/csprd/?cmd=login) 登录 SIS **(谨记！只在Chrome上登录，要是在多个浏览器/设备登录会十分麻烦)**
 
 2. 像往常一样把课加到Shopping Cart里边
 

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Enroll Monster
-// @namespace    http://www.boxifly.cn/
+// @namespace    https://cyzhu.dev/
 // @version      0.2
 // @description  A utility for course enrolling in LGU by Philip Chu.
 // @author       Philip Chu

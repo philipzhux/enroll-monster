@@ -18,7 +18,7 @@ Tampermonkey is prerequisite for EnrollMonster. To install Tampermonkey, go to [
 
 ## Usage
 ### Preparation
-1. Click [here](http://sis.cuhk.edu.cn:81/psp/csprd/?cmd=login) to login to SIS **(REMEMBER! Login to SIS on Chrome only, logining in multiple browsers will casue disaster for your enrollment!!!)**
+1. Click [here](https://sis.cuhk.edu.cn/psp/csprd/?cmd=login) to login to SIS **(REMEMBER! Login to SIS on Chrome only, logining in multiple browsers will casue disaster for your enrollment!!!)**
 
 2. Like usual, add all you desired classes in the the cart by class search.
 
