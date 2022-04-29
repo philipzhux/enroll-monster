@@ -39,9 +39,6 @@ N.B. 记得在抢课时间前10分钟左右再用，因为每次SIS的Login Sess
 > Please enter the time to click ENROLL e.g. 140000:
 
 这就是Enroll Monster把你抢课的时间啦，比如210000
-	
-5. 最后会有提示:
-> Philip: All set! The script will help you fill in the CAPTCHA automatically. Now relax and wait till the enroll time!
 
 好了，一切就绪。
 

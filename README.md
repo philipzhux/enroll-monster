@@ -41,9 +41,7 @@ The time should be in format of ```HHMMSS```, e.g. ```135700``` for **13:57:00**
 This is the time at which the script auto-click the button ENROLL ,it should be the exact time of enrollment  (you may add extra one second to gurantee that the enrollment system has been open, then you will be one second later, this is a trade-off fully up to you)
 
 The time should be in format of ```HHMMSS```, e.g. ```140000``` for **14:00:00**
-	
-5. Finally there will be an alert saying that:
-> Philip: All set! The script will help you fill in the CAPTCHA automatically. Now relax and wait till the enroll time!
+
 
 Now sit back and relax. All set.
 

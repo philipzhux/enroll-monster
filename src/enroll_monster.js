@@ -21,7 +21,7 @@
 
         var cap = prompt("Please enter the time to pre-filled the CAPTCHA code e.g. 135700:");
         var enr = prompt("Please enter the time to click ENROLL e.g. 140000:");
-        alert ("Philip: All set! The script will help you fill in the CAPTCHA automatically. Now relax and wait till the enroll time!");
+        //alert ("Philip: All set! The script will help you fill in the CAPTCHA automatically. Now relax and wait till the enroll time!");
         //below is for step 1 of enrollment
        var time1 = setInterval(setTimeClick,1);
        var sett = 1;
